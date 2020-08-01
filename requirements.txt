@@ -1,4 +1,3 @@
-openpyxl
 numpy
 pandas
 tensorflow
