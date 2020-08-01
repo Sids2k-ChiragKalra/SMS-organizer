@@ -27,8 +27,6 @@ You can view it's architecture using tf.keras.utils.plot_model and other such fu
 
 
 ## Requirements 
-* openpyxl
-
 * numpy
 
 * pandas
