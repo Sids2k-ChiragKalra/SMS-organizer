@@ -21,7 +21,7 @@ The trained model can be loaded from SMS_organizer/models/model.h5 and the data 
 You can view it's architecture using tf.keras.utils.plot_model and other such functions. The format of the data can be viewed from dataset.csv.
 
 ## Related Projects
-* Android App implementing this project : https://github.com/ChiragKalra/sms-organiser-android
+* Android App implementing this project : https://github.com/ChiragKalra/Organiso
 
 * Discord Bot to collect training labels : https://github.com/ChiragKalra/data-label-discord-bot
 
