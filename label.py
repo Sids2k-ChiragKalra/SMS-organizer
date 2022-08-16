@@ -6,7 +6,7 @@ if __name__ == '__main__':
     old_same = list(csv.reader(open('data/pruned_db/same_labeled.csv', encoding='utf8')))
     features = list(csv.reader(open('data/pruned_db/unlabeled.csv', encoding='utf8')))
 
-    labels = list(csv.reader(open('C:/Users/bruhascended/PycharmProjects/SMSDiscordBot/labels.csv', encoding='utf8')))
+    labels = list(csv.reader(open('SMSDiscordBot/labels.csv', encoding='utf8')))
     old_labels = list(csv.reader(open('data_collection/pruned_db/old_labels.csv', encoding='utf8')))
 
     same = old_same.__add__(same)
